@@ -1,0 +1,1 @@
+# tf2-block-suicide-and-team-switch
