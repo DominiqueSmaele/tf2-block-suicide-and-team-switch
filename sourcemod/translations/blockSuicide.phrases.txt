@@ -1,0 +1,22 @@
+"Phrases"
+{
+	"noKill"
+	{
+		"en"	"You are {RED}not {DEFAULT}allowed to {RED}kill {DEFAULT}yourself!"
+	}
+
+	"noExplode"
+	{
+		"en"	"You are {RED}not {DEFAULT}allowed to {RED}explode {DEFAULT}yourself!"
+	}
+
+	"noSwitchAllowSpectate"
+	{
+		"en"	"You are {RED}only {DEFAULT}allowed to {RED}switch {DEFAULT}to spectate mode!"
+	}
+
+	"noSwitchNoSpectate"
+	{
+		"en"	"You are {RED}not {DEFAULT}allowed to {RED}switch {DEFAULT}teams!"
+	}
+}
