@@ -22,6 +22,7 @@ sm_allowSpectateTeam (0) - Allow spectate for which team? (0 = Both teams, 1 = T
 # Overrides
 - suicideandteamswitch_override
 
+
 By default the flag is "b" (admins).
 
 # Compile Requirements
