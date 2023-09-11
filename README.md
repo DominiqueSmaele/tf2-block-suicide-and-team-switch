@@ -10,13 +10,13 @@ I think I made it as efficiently as possible, but this is my first plugin so... 
 
 
 # ConVars
-sm_blockSuicide_enabled (1) - Enable or disable this plugin
-sm_allowOverride (1) - Allow or disallow overrides for suicides and team switches?
-sm_blockKillTeam (0) - Which team to block kill for? (0 = No team, 1 = Team RED, 2 = TEAM BLUE, 3 = Both teams)
-sm_blockExplodeTeam (0) - Which team to block explode for? (0 = No team, 1 = Team RED, 2 = TEAM BLUE, 3 = Both teams)
-sm_blockSwitchTeam (0) - Which team to block switching teams for? (0 = No team, 1 = Team RED, 2 = TEAM BLUE, 3 = Both teams)
-sm_allowSpectate (1) - Allow or disallow switching to spectate?
-sm_allowSpectateTeam (0) - Allow spectate for which team? (0 = Both teams, 1 = Team RED, 2 = Team BLUE)
+- sm_blockSuicide_enabled (1) - Enable or disable this plugin
+- sm_allowOverride (1) - Allow or disallow overrides for suicides and team switches?
+- sm_blockKillTeam (0) - Which team to block kill for? (0 = No team, 1 = Team RED, 2 = TEAM BLUE, 3 = Both teams)
+- sm_blockExplodeTeam (0) - Which team to block explode for? (0 = No team, 1 = Team RED, 2 = TEAM BLUE, 3 = Both teams)
+- sm_blockSwitchTeam (0) - Which team to block switching teams for? (0 = No team, 1 = Team RED, 2 = TEAM BLUE, 3 = Both teams)
+- sm_allowSpectate (1) - Allow or disallow switching to spectate?
+- sm_allowSpectateTeam (0) - Allow spectate for which team? (0 = Both teams, 1 = Team RED, 2 = Team BLUE)
 
 
 # Overrides
